@@ -8,5 +8,4 @@ public class MethodCreation {
 		MethodCreation methodCreation = new MethodCreation();					//object creation or memory allocation
 		methodCreation.typeSentence();											//method calling
 	}
-
 }
