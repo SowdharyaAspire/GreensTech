@@ -4,6 +4,7 @@ public class CompanyInfo {
 	public CompanyInfo(String Word) {
 		System.out.println(Word);
 		String word2 = " welcome to our company";
+
 		String word3 = Word.concat(word2);
 		System.out.println(word3);
 	}
