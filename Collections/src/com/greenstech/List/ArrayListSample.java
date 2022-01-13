@@ -11,7 +11,7 @@ public class ArrayListSample {
 		int a[] = { 10, 20, 30, 90, 10, 10, 40, 50 };
 		List<Integer> l = new ArrayList();
 
-		for (int i = 0; a[i]!='\0' ; i++) {
+		for (int i = 0; i < a.length ; i++) {
 			l.add(a[i]);
 		}
 		System.out.println(l.size());
