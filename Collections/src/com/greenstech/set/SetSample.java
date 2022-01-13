@@ -28,7 +28,7 @@ public class SetSample {
 		set1.add(12);
 		set1.add(15);
 		System.out.println(set1);
-		//TreeSet Ascending Order
+		//TreeSet --- Ascending Order
 		Set<Integer> set2 = new TreeSet<>();
 		set2.add(13);
 		set2.add(19);
